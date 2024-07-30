@@ -1,4 +1,4 @@
-#Poornachandra Kongara Portfolio
+#Prakhya Dasari Portfolio
 
-https://poornachandra77.github.io/poornachandrakongaraportfolio/ <br>
-LinkedIn: https://www.linkedin.com/in/poornachandra-kongara/
+https://prakhyadasari7.github.io/PrakhyaDasariPortfolio// <br>
+LinkedIn: https://www.linkedin.com/in/prakhya-dasari-/
